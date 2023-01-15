@@ -18,8 +18,8 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MaterialApp(
-    home: Splash(),
-     //home: MyStore(),
+    //home: Splash(),
+     home: MyStore(),
     debugShowCheckedModeBanner: false,
 
   ));
