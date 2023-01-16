@@ -1,12 +1,14 @@
 //import 'dart:html';
 //import 'dart:io';
 
+// ignore_for_file: unused_import
+
 //https://www.youtube.com/watch?v=hL09elg37OE&list=PLT2KSPhMMiqq-bkRqjauB27yiZV0ybCNK&index=3
 import 'dart:async';
 import 'dart:io';
 // import 'dart:ui';
 import 'package:delivery/Splash.dart';
-import 'package:delivery/pizzeria01.dart';
+//import 'package:delivery/pizzeria01.dart';
 import 'package:delivery/stores.dart';
 // import 'package:delivery/views/login.dart';
 // import 'package:flutter/cupertino.dart';
